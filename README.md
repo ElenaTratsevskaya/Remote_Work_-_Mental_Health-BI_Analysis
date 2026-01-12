@@ -9,7 +9,7 @@ Analyzing Mental Well-being in a Remote Work Era
 
 Данные взяты с [Kaggle](https://www.kaggle.com/datasets/iramshahzadi9/remote-work-and-mental-health)<br><br>
 
-Выполнены два варианта выполнены**:** в Power BI и представлен скринами и в Tableau.<br> 
+Выполнены два варианта выполнены: в Power BI и представлен скринами и в Tableau.<br> 
 Вариант в Tableau доступен в моём профиле [Remote_Work_and_Mental_Health-BI_Analysis](https://public.tableau.com/app/profile/elena.tratcevskaia/viz/MentalhealthandremoteworkbyagegroupdatasetfromKaggle/Dash_fin)<br>
 
 ### Мой интерес привязан к возрастным группам, поэтому и дашборд построен соответственно. <br>
@@ -35,7 +35,7 @@ Satisfaction_with_Remote_Work: указанное респондентами с�
 **Дашборд Tableau**
 <img width="1198" height="669" alt="Dash_Tableau_01" src="https://github.com/user-attachments/assets/af9f74e0-f837-4caa-ad78-084ff2288b0a" />
 
-🆒 Есть возможность попробовать фильтры, для этого я перенесла отчёт в Tableau, повторяю ссылку**:** [Remote_Work_and_Mental_Health-BI_Analysis](https://public.tableau.com/app/profile/elena.tratcevskaia/viz/MentalhealthandremoteworkbyagegroupdatasetfromKaggle/Dash_fin)<br>
+🆒 Есть возможность попробовать фильтры, для этого я перенесла отчёт в Tableau, повторяю ссылку [Remote_Work_and_Mental_Health-BI_Analysis](https://public.tableau.com/app/profile/elena.tratcevskaia/viz/MentalhealthandremoteworkbyagegroupdatasetfromKaggle/Dash_fin)<br>
 
 
 
